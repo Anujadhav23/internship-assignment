@@ -1,7 +1,7 @@
 # System Architecture - Referral Program Fraud Detection Pipeline
 
 ## 📋 Overview
-This document outlines the complete architecture and data flow of the Referral Program Fraud Detection Pipeline. The system processes referral data from multiple sources, applies business logic validation, and generates a comprehensive fraud detection report.
+This document outlines the complete architecture and data flow of the Referral Program Fraud Detection Pipeline. The system processes referral data from multiple sources,+ applies business logic validation, and generates a comprehensive fraud detection report.
 
 ---
 
